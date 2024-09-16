@@ -1,0 +1,79 @@
+{
+  "user": {
+    "id": 12345,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "age": 29,
+    "address": {
+      "street": "123 Maple Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62704"
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "555-1234"
+      },
+      {
+        "type": "mobile",
+        "number": "555-5678"
+      }
+    ],
+    "isActive": true,
+    "lastLogin": "2024-09-05T14:48:00Z",
+    "preferences": {
+      "newsletterSubscribed": false,
+      "darkMode": true,
+      "language": "en"
+    }
+  },
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "inStock": true,
+      "tags": [
+        "electronics",
+        "computer",
+        "technology"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Coffee Maker",
+      "category": "Appliances",
+      "price": 49.99,
+      "inStock": false,
+      "tags": [
+        "kitchen",
+        "appliance",
+        "coffee"
+      ]
+    }
+  ],
+  "order": {
+    "orderId": 67890,
+    "date": "2024-09-04T11:00:00Z",
+    "totalAmount": 1049.98,
+    "items": [
+      {
+        "productId": 101,
+        "quantity": 1
+      },
+      {
+        "productId": 202,
+        "quantity": 1
+      }
+    ],
+    "status": "Shipped",
+    "shippingAddress": {
+      "street": "456 Oak Avenue",
+      "city": "Greenville",
+      "state": "NC",
+      "zip": "27858"
+    }
+  }
+}

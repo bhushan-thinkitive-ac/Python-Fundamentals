@@ -1,0 +1,16 @@
+OOPS:
+    1]Introduction to OOP:
+        a]Learned about creating the class and objects in python 
+        b]Got the explaination about __init__ and self keyword. Learned why they are used in functions and classes.
+    2]Encapsulation:
+        a]Learned about Encapsulation and various methods to secure the variable or methods inside class. I had handson practice on using access specifires in Encapsulation.
+        b]Learned about how the private method or variable can be accessed and modified outside the class using getter and setter method.
+    3]Inheritance:
+        a]Learned Inheritance and various types of Inheritance includes single, multilevel, multiple,etc. Learned about creating the sub classes and accessing the methods of parents class from the object of the child or sub class.
+        b]Learned how method overriding is happen in Inheritance and also Learned about super() keywoord to fetch the methods from parents class.
+    4]Polymorphism:
+        a]Learned about polymorphism and the types of polymorphism which includes method overloading and method overriding.
+        b]I got hands-on practice on using the method overloading and method overriding.
+    5]Abstraction:
+        a]Learned about abstraction in which I explored about ABC class and abstractmethod decorator. Also, had the hands--on practice on accessing the Abstraction in python program. 
+        b]Learned about how to create an interface in python and the difference between abstract class and interface.

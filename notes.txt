@@ -1,0 +1,36 @@
+1]Decorators:
+        a] Learned about Decorators and learned how to create a decorator. Learned how to implement a decorator for any function. 
+        b] Learned about the use of the @ symbol in Python. The @ symbol is used to add decorator. Also had the hands-on practice on creating the decorator and applying it to a function.
+2]Zip function:
+        a] Learned how to use the zip() function with multiple dictionaries. And had the hands-on practice of zip function.
+3]Lambda function:
+        a] Learned about the lambda function in Python. The lambda function is a small anonymous function.
+        b] Learned how to use the lambda function. The lambda function can be used to create small functions
+4]Iterator:
+        a] Learned about the iterator in Python. Learned how to create an iterator. An iterator can be created using the iter() function. Also learned next() function to print the iterables.
+5]Generator:
+        a] Learned about the generator in Python. Learned how to create a generator. And had the hands-on practice on generators.   
+6]Regular expressions:
+        a] Learned about the regular expressions in Python. Learned how to use the regular expressions. And 
+        had the hands-on practice on regular expressions. Had an overview of various functions and metacharacters in regular expressions.
+        b] Learned about the re.search(), re.finditer()  methods and also learned about the raw string using 'r' character.
+7]Namespaces and Scope:
+        a] Learned about the namespace and scope in Python. Learned how to use the global and local
+        scope. Also learned about the nonlocal keyword in Python. And had the hands-on practice on namespace
+        and scope.
+8]Keywords and Identifiers:
+        a] Learned about the keywords and identifiers in Python. Learned how to use the keywords and identifiers. Learned the rules to use both.
+
+
+
+
+
+1. Check ZIP in Dictionary 
+3. Python Lambda/Anonymous Function
+4. Python Iterators
+5. Python Generators
+6. Python Namespace and Scope
+7. Python Decorators
+8. Python RegEx
+9. Python Keywords and Identifiers
+10. Python Json
